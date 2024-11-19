@@ -1,13 +1,11 @@
 # Lecture Examples
 
 This is the repository for IHCC CIS 206 Web Scripting.
-
-## Course Description
-
-In this course we will learn to...
+In this course we will learn to use Next.js 
 
 ## Instructions
 
+You will want to fork this repo so you can commit changes as you follow along. Make sure to commit changes before changing branches. 
 
 ## Branches
 
